@@ -1,0 +1,5 @@
+# ignore folder named `config`
+config/
+
+# ignore file named `keys.js`
+keys.js
