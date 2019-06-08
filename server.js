@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const path = require('path');
+const lodash = require('lodash');
 
 const items = require('./routes/api/items');
 
