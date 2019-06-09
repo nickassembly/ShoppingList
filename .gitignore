@@ -3,3 +3,6 @@ config/
 
 # ignore file named `keys.js`
 keys.js
+
+# ignore file named `default.json`
+default.json
